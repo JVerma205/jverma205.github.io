@@ -3,7 +3,7 @@ title: Jatin Verma
 description: "Jatin's Homepage"
 url: 'https://www.zuehlke.cloud'
 baseurl: ''
-profilepic: '/images/jatin_photo.png'
+profilepic: '/images/jatin_photo.jpeg'
 bkimage: '/images/bk2.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
@@ -15,7 +15,7 @@ author:
   # twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
   github_username:  jverma205
-  linkedin_username:  /in/jverma205
+  linkedin_username:  jverma205
   # meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
