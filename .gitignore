@@ -3,3 +3,6 @@ _site/
 .htaccess
 _config.yml
 .DS_Store
+
+# local dependencies dir
+.bundle
